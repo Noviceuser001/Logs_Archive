@@ -13,7 +13,6 @@ A simple, efficient command-line utility for archiving log files on Unix-based s
 - [Configuration](#configuration)
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## ✨ Features
 
